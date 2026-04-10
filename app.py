@@ -50,7 +50,7 @@ with col2:
 
 st.markdown("---")
 
-# --- 6. Your Modified Strategic Marketing Roadmap ---
+# --- 6. Strategic Marketing Roadmap ---
 st.subheader("💡 Strategic Marketing Roadmap")
 
 segment_insights = {
