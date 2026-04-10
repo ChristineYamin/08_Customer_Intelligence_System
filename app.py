@@ -8,7 +8,7 @@ st.set_page_config(page_title="Customer Intelligence System", layout="wide")
 # --- 1. Load Data ---
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/final_customer_segments.csv")
+    return pd.read_csv("final_customer_segments.csv")
 
 df = load_data()
 
